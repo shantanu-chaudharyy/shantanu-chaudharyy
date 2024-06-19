@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu-chaudharyy&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu-chaudharyy" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/shantanuchaudhary/" target="blank"><img src="https://img.shields.io/twitter/Follow/shantanu_chaudhary?logo=Linkedin&style=for-the-badge" alt="shantanuchy_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shantanuchy_" target="blank"><img src="https://img.shields.io/twitter/follow/shantanuchy_?logo=twitter&style=for-the-badge" alt="shantanuchy_" /></a> </p>
 
 - 🌱 I’m currently learning **Java Data Structures And Algorithms**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shantanuchaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantanuchaudhary" height="30" width="40" /></a>
+<a href="https://twitter.com/shantanuchy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantanuchy_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shantanuchaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shantanuchaudhary/" height="30" width="40" /></a>
 <a href="https://instagram.com/shantanu_chaudharyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shantanu_chaudharyy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/shantanu_chaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shantanu_chaudhary/" height="30" width="40" /></a>
