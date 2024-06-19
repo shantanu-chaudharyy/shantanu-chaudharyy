@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu-chaudharyy&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu-chaudharyy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shantanuchy_" target="blank"><img src="https://img.shields.io/twitter/follow/shantanuchy_?logo=twitter&style=for-the-badge" alt="shantanuchy_" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/shantanuchaudhary/" target="blank"><img src="https://img.shields.io/twitter/Follow/shantanu_chaudhary?logo=Linkedin&style=for-the-badge" alt="shantanuchy_" /></a> </p>
 
 - 🌱 I’m currently learning **Java Data Structures And Algorithms**
 
