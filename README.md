@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shantanu Chaudhary</h1>
-<h3 align="center">"New B.Tech CSE Student | Passionate Coder Exploring the Future of Technology</h3>
+<h3 align="center">"New B.Tech CSE Student | Passionate Coder Exploring the Future of Technology"</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
