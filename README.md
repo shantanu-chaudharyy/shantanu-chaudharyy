@@ -9,6 +9,7 @@
   <span style="color: #36BCF7; font-weight: bold; font-size: 45px;">Shantanu Chaudhary</span>
 </h1>
 
+<!-- 🎯 Typing Animation -->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Tech+Enthusiast;💻+B.Tech+CSE+Student;⚡+Passionate+Coder;🎯+Problem+Solver+%26+Tech+Lover!" />
 </h3>
@@ -33,7 +34,6 @@
 - 🎮 **Fun Fact:** I debug better than I cook! 🍳  
 
 ---
-
 ## 🌐 **Connect with Me**
 <p align="center">
   <a href="https://twitter.com/shantanuchy_" target="_blank">
@@ -52,25 +52,48 @@
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+
+## 🛠️ **Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,git,github,vscode,js,react" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📈 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantanu-chaudharyy&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu-chaudharyy&theme=tokyonight" height="165">
-</div>
+## 🌟 **Skills & Certifications**
+### Top Skills:
+- **C (Programming Language)**
+- **Computer Science**
+- **Problem Solving**
+
+### Certifications: 
+
+- **Data Structures in Java** - Coding Ninjas
+- **Certificate of Excellence - Java** - Coding Ninjas  
+- **Certificate of Completion - Java** - Coding Ninjas  
+- **Certificate of Achievement** - Coding Ninjas  
+- **Data Structures in Java** - Coding Ninjas  
+
+---
+
+## 💼 **My Code360 Profile**
+Check out my Code360 profile [here](https://www.naukri.com/code360/profile/jgdykgvjvhli).
+
+---
+
+
+## 📊 **My GitHub Contributions**
+![Shantanu's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=shantanu-chaudharyy&bg_color=fff&color=36BCF7&line=36BCF7&point=ff69b4&area=true&hide_border=true)
+
+---
+
+## 📈 **My GitHub Stats**
+![Shantanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shantanu-chaudharyy&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&include_all_commits=true&line_height=24&hide_border=true)
 
 ---
 
 ## 📌 **Top Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-chaudharyy&layout=compact&theme=vision-friendly-dark" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-chaudharyy&layout=compact&theme=vision-friendly-dark)
 
 ---
 
@@ -88,4 +111,5 @@
 
 ---
 
-### ⭐ **If you like my work, consider giving it a star and following me!** 🚀✨
+
+
