@@ -87,12 +87,5 @@
 </p>
 
 ---
----
-
-## 🎮 **Play a Game!**
-Test your skills with this fun little game! 🎯 [Play the Game Here!](https://link-to-your-game.com)
-
----
-
 
 ### ⭐ **If you like my work, consider giving it a star and following me!** 🚀✨
