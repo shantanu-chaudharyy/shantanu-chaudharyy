@@ -62,9 +62,11 @@
 
 ## 🌟 **Skills & Certifications**
 ### Top Skills:
+- **Java**
 - **C (Programming Language)**
 - **Computer Science**
 - **Problem Solving**
+  
 
 ### Certifications: 
 
