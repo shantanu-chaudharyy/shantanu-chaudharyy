@@ -70,12 +70,12 @@
 
 ### Certifications: 
 
-- **Data Structures in Java** - Coding Ninjas
+- **Certificate of Excellence - DSA** - Coding Ninjas
 - **Certificate of Excellence - Java** - Coding Ninjas  
 - **Certificate of Completion - Java** - Coding Ninjas  
-- **Certificate of Achievement** - Coding Ninjas  
-- **Data Structures in Java** - Coding Ninjas  
-
+- **Certificate of Achievement - Basic of JAVA** - Coding Ninjas  
+- **Certificate of Completion - DSA** - Coding Ninjas  
+- **Certificate of Achievement - OOPs** - Coding Ninjas 
 ---
 
 ## 💼 **My Code360 Profile**
