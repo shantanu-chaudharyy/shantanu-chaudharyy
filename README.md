@@ -63,9 +63,11 @@
 ## 🌟 **Skills & Certifications**
 ### Top Skills:
 - **Java**
+- **Data Structure and Algorithms**
 - **C (Programming Language)**
-- **Computer Science**
+- **OOPs**
 - **Problem Solving**
+  
   
 
 ### Certifications: 
