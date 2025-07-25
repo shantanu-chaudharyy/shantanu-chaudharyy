@@ -70,14 +70,19 @@
   
   
 
-### Certifications: 
+## 📜 Certifications
 
-- **Certificate of Excellence - DSA** - Coding Ninjas
-- **Certificate of Excellence - Java** - Coding Ninjas  
-- **Certificate of Completion - Java** - Coding Ninjas  
-- **Certificate of Achievement - Basic of JAVA** - Coding Ninjas  
-- **Certificate of Completion - DSA** - Coding Ninjas  
-- **Certificate of Achievement - OOPs** - Coding Ninjas 
+- Certificate of Excellence - DSA (Java) – Coding Ninjas (Dec 2024)  
+- Certificate of Achievement - OOPs (Java) – Coding Ninjas (Apr 2025)  
+- Basics (Java) – Coding Ninjas (Sep 2024)  
+- Software Engineering Job Simulation – Accenture Nordics (Forage) (Jul 2025)  
+- Prompt Design in Vertex AI – Google Cloud (Jul 2025)  
+- Firebase Studio Developer Community – Firebase (Jun 2025)  
+- Microsoft Certified: Azure AI Fundamentals – Microsoft (Jun 2025)  
+- Microsoft Certified: Azure Fundamentals – Microsoft (Jun 2025)  
+- Open Source Connect India Contributor – India Initiative (Aug 2025)  
+- Google Developer Experts Follower – Google (Jun 2025)  
+
 ---
 
 ## 💼 **My Code360 Profile**
